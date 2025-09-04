@@ -1,0 +1,6 @@
+streamlit
+sentencepiece
+transformers
+torch
+huggingface_hub
+accelerate

@@ -2,6 +2,11 @@
 
 A beautiful Streamlit app that provides personalized financial advice using AI models. Features include a 50/30/20 budget calculator, interactive chat interface, and comprehensive financial guidance.
 
+## Preview
+![App Screenshot](assets/img1.png)
+![App Screenshot](assets/img2.png)
+![App Screenshot](assets/img3.png)
+
 ## Features
 
 - 🤖 **AI Financial Advisor** - Powered by TinyLlama/DialoGPT

@@ -7,6 +7,9 @@ A beautiful Streamlit app that provides personalized financial advice using AI m
 ![App Screenshot](assets/img2.png)
 ![App Screenshot](assets/img3.png)
 
+## Demo Video
+[Watch the demo on Google Drive](https://drive.google.com/file/d/1NnzPvrfwWcAUjnsAMqMf0pfIndFBrObL/view?usp=drive_link)
+
 ## Features
 
 - 🤖 **AI Financial Advisor** - Powered by TinyLlama/DialoGPT
